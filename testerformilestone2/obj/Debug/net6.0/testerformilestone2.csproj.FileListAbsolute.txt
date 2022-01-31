@@ -1,0 +1,15 @@
+C:\Users\noahl\source\repos\testerformilestone2\testerformilestone2\obj\Debug\net6.0\testerformilestone2.csproj.AssemblyReference.cache
+C:\Users\noahl\source\repos\testerformilestone2\testerformilestone2\obj\Debug\net6.0\testerformilestone2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noahl\source\repos\testerformilestone2\testerformilestone2\obj\Debug\net6.0\testerformilestone2.AssemblyInfoInputs.cache
+C:\Users\noahl\source\repos\testerformilestone2\testerformilestone2\obj\Debug\net6.0\testerformilestone2.AssemblyInfo.cs
+C:\Users\noahl\source\repos\testerformilestone2\testerformilestone2\obj\Debug\net6.0\testerformilestone2.csproj.CoreCompileInputs.cache
+C:\Users\noahl\source\repos\testerformilestone2\testerformilestone2\bin\Debug\net6.0\testerformilestone2.exe
+C:\Users\noahl\source\repos\testerformilestone2\testerformilestone2\bin\Debug\net6.0\testerformilestone2.deps.json
+C:\Users\noahl\source\repos\testerformilestone2\testerformilestone2\bin\Debug\net6.0\testerformilestone2.runtimeconfig.json
+C:\Users\noahl\source\repos\testerformilestone2\testerformilestone2\bin\Debug\net6.0\testerformilestone2.dll
+C:\Users\noahl\source\repos\testerformilestone2\testerformilestone2\bin\Debug\net6.0\ref\testerformilestone2.dll
+C:\Users\noahl\source\repos\testerformilestone2\testerformilestone2\bin\Debug\net6.0\testerformilestone2.pdb
+C:\Users\noahl\source\repos\testerformilestone2\testerformilestone2\obj\Debug\net6.0\testerformilestone2.dll
+C:\Users\noahl\source\repos\testerformilestone2\testerformilestone2\obj\Debug\net6.0\ref\testerformilestone2.dll
+C:\Users\noahl\source\repos\testerformilestone2\testerformilestone2\obj\Debug\net6.0\testerformilestone2.pdb
+C:\Users\noahl\source\repos\testerformilestone2\testerformilestone2\obj\Debug\net6.0\testerformilestone2.genruntimeconfig.cache
